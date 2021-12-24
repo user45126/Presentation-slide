@@ -1,2 +1,2 @@
 # Presentation-slide
-There will be presentation slide of our team
+Here we included presentation with our team information and project description
