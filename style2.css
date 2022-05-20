@@ -1,0 +1,23 @@
+html{
+    background:url(https://cdn.wallpapersafari.com/88/22/O6rAyh.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.word{
+    margin: auto;
+    width: 50%;
+    margin-top: 170px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 40px;
+    padding-right: 30px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    color: black;
+    background-color: rgb(6, 222, 230);
+    border-radius: 500px;
+    text-align: center;
+}
